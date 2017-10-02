@@ -2,3 +2,5 @@
 This will make a conflict!!
 The conflict is resolved!!!
 Edited again in master branch.
+Hello, again!
+
