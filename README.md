@@ -6,4 +6,4 @@ Hello, again!
 A change from gitBash
 Another change trying to makke a conflict
 Another one
-A change from the new branch!
+A change from the new branch!!
